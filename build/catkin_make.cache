@@ -1,0 +1,2 @@
+collision:kobuki_msgs
+-DCATKIN_DEVEL_PREFIX=/home/student/tp_turtle_Grellier_Leconte_Mallecourt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/student/tp_turtle_Grellier_Leconte_Mallecourt_ws/install -G Unix Makefiles

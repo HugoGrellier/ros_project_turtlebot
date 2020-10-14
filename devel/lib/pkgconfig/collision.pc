@@ -1,0 +1,8 @@
+prefix=/home/student/tp_turtle_Grellier_Leconte_Mallecourt_ws/devel
+
+Name: collision
+Description: Description of collision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lcollision
+Requires: kobuki_msgs rospy std_msgs
