@@ -4,6 +4,7 @@ Le but du projet est d'apprendre a utiliser ROS.
 
 Les fonctionnalités dévélopper sont: 
 
-- controlle avec un joystick
-- mesure de l'altitude
-- mode surveillance
+- detection de d'obstacle avec le bumper
+- mesure de distance avec l'objet le plus proche
+- emission sonore facon radar de recule
+- mapping carte et navigation dans celle-ci
